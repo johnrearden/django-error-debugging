@@ -14,7 +14,7 @@ class HomeView(View):
 
         form = PersonForm()
         context = {
-            'form': form,
+            'person_form': form,
             'people': people,
         }
         return render(request, 'home/home.html', context)
