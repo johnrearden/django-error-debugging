@@ -16,7 +16,7 @@
             {% if people %}
             <h1 class="display-6 text-gray">Select a Person:</h1>
             {% endif %} {% for person in people %}
-            <a href="{% url 'person_detail' person.id %}" class="text-decoration-none">
+            <a href="{% url 'person_detail' %}" class="text-decoration-none">
                 <p>
                     <span class="text-gray">{{ person.name }}</span>
                     <span class="text-gray">({{ person.date_of_birth }})</span>
