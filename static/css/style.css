@@ -1,0 +1,14 @@
+body {
+    background-image: url('../images/ocean.jpg');
+}
+
+.person-form {
+    padding: 2rem;
+    border-radius: 0.7rem;
+    background-color: rgb(255, 255, 255, 0.2);
+    box-shadow: 0 0 10px 2px inset rgb(0, 0, 0, 0.4);
+}
+
+.text-gray {
+    color: lightgray;
+}
