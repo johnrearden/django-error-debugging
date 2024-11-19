@@ -16,7 +16,7 @@ And try to fix the bug! There's a link to a video of each fix below, but give it
 
 # Switching to the next branch
 
-You won't be able to push to the remote repo on Github (unless you fork your own version of the project), but you can pin your workspace, save your work and run `git add .` and `git commit -m '{MEANINGFUL_MESSAGE}'` in the local git repo.
+You won't be able to switch to another branch if you have made changes to the branch you're currently in! You can save your work and run `git add .` and `git commit -m '{MEANINGFUL_MESSAGE}'` in the local git repo.
 
 If you'd just like to switch back to the main branch without committing any changes you've made, you can run `git reset --hard`, which will return the filesystem to the state it was in just after the last commit.
 
