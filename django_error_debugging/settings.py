@@ -32,8 +32,10 @@ ALLOWED_HOSTS = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8000-johnrearden-djangoerror-tam9m3zyzi2.ws.codeinstitute-ide.net',
+    'https://*.codeinstitute-ide.net',
 ]
+
+
 
 
 # Application definition
