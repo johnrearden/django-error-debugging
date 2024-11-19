@@ -25,10 +25,10 @@ Branch 3 - NoReverseMatch [video solution](https://youtu.be/sVr9JBglrH8)
 
 Branch 4 - Where's my form gone! [video solution](https://youtu.be/_I4wsFe_oLM)
 
-Branch 5 - Where's my home page gone!
+Branch 5 - Where's my home page gone! [video solution](https://youtu.be/qPKhm4DcH3I)
 
-Branch 6 - OperationalError - no such table
+Branch 6 - OperationalError - no such table [video solution](https://youtu.be/y6znhjy7Gfk)
 
-Branch 7 - Where have my styles and background image gone?
+Branch 7 - Where have my styles and background image gone? [video solution]()
 
 
