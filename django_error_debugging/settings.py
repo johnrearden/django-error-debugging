@@ -28,11 +28,11 @@ SECRET_KEY = 'django-insecure-f67dj+7iyxm7_$j6$nwvf(^9y9!1u-r4dpxaha4k*k)9#%8+_t
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-johnrearden-djangoerror-tam9m3zyzi2.ws.codeinstitute-ide.net',
+    '*',
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8000-johnrearden-djangoerror-tam9m3zyzi2.ws.codeinstitute-ide.net',
+    'https://*.codeinstitute-ide.net',
 ]
 
 
