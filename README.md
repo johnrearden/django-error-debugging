@@ -15,7 +15,7 @@ Then run the server with
 And try to fix the bug! There's a link to a video of each fix below, but give it a go on your own first! You won't be able to push to the remote repo on Github (unless you fork your own version of the project), but you can pin your workspace, save your work and run `git add .` and `git commit -m '{MEANINGFUL_MESSAGE}'` in the local git repo.
 
 # Branches, Errors and Solutions
-Branch 1 - 400 Bad Request [video solution](https://youtu.be/0tseJxBPveA)
+Branch 1 - 400 Bad Request [video solution](https://youtu.be/zEXMulgZrnE)
 
 Branch 2 - TemplateDoesNotExist
 
