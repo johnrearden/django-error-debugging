@@ -16,6 +16,8 @@ And try to fix the bug! There's a link to a video of each fix below, but give it
 
 If you'd just like to switch back to the main branch without committing any changes you've made, you can run `git reset --hard`, which will return the filesystem to the state it was in just after the last commit.
 
+![instruction_diagram](static/doc_images/django-debugging-diagram.png)
+
 # Branches, Errors and Solutions
 Branch 1 - 400 Bad Request [video solution](https://youtu.be/zEXMulgZrnE)
 
