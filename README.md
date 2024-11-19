@@ -17,7 +17,7 @@ And try to fix the bug! There's a link to a video of each fix below, but give it
 # Branches, Errors and Solutions
 Branch 1 - 400 Bad Request [video solution](https://youtu.be/zEXMulgZrnE)
 
-Branch 2 - TemplateDoesNotExist
+Branch 2 - TemplateDoesNotExist [video solution](https://youtu.be/9QDwl-FkQws)
 
 Branch 3 - NoReverseMatch
 
