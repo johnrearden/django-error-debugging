@@ -29,6 +29,6 @@ Branch 5 - Where's my home page gone! [video solution](https://youtu.be/qPKhm4Dc
 
 Branch 6 - OperationalError - no such table [video solution](https://youtu.be/y6znhjy7Gfk)
 
-Branch 7 - Where have my styles and background image gone? [video solution]() - for bonus points solve without changing settings.py!
+Branch 7 - Where have my styles and background image gone? [video solution](https://youtu.be/gpn_uplePvE) - for bonus points solve without changing settings.py!
 
 
